@@ -49,7 +49,7 @@
    - Product recommendation 
    - Product catalog
    
-### Status:
+### Status: progress...
 
 
 
