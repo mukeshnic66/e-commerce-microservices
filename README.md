@@ -16,7 +16,7 @@
 
 ### Tools and Technologies
 
-- **Java 8**
+- **Java 17**
 - **Spring Boot** - version 2.1.5 RELEASE
 - **Spring Web MVC** - version 5.1.7 RELEASE
 - **Spring SESSION** - version 2.1.6 RELEASE
