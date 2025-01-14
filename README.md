@@ -12,6 +12,7 @@
 
 ### Project architecture
  
+ ![micro](https://github.com/mukeshnic66/e-commerce-microservices/blob/main/Project-architecture.png)
 
 ### Tools and Technologies
 
